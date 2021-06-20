@@ -189,8 +189,7 @@ a:hover
 
 
   .hero-image {
-    background-image: url("/mysite/images/symbol.png");
-    background-color: #cccccc;
+    background-image: url("/mysite/images/symbol.png"); 
     height: 350px;
     background-position: center;
     background-repeat: no-repeat;
